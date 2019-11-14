@@ -1,8 +1,8 @@
-# MMDetection For Remote Sensing
+# SBLDet
 ![demo image](demo/P2261.png)
 
 ## Introduction
-
+**News**: SBLDet: Scale Balanced Learning for object Detection.This novel method is based on mmdetection to reimplement Scale Balanced Learning Moudle and use the model Faster R-CNN HBB to get the results.
 The master branch works with **PyTorch 1.1** or higher.
 mmdetection is an open source object detection toolbox based on PyTorch. It is
 a part of the open-mmlab project developed by [Multimedia Laboratory, CUHK](http://mmlab.ie.cuhk.edu.hk/).
