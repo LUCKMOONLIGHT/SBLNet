@@ -1,5 +1,5 @@
 # MMDetection For Remote Sensing
-![demo image](demo/P0678.png)
+![demo image](demo/P2261.png)
 
 ## Introduction
 
